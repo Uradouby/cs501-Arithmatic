@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Arithmatic</string>
+    <string name="Addition">+</string>
+    <string name="Subtraction">—</string>
+    <string name="Multiplication">X</string>
+    <string name="Division">/</string>
+    <string name="Modulus">%</string>
+    <string name="Answer">Answer</string>
+    <string name="caculate_button">Caculate!</string>
+</resources>
